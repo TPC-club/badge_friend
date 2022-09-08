@@ -5,3 +5,7 @@
 ## SIZE
 
 :eight::eight:mm `x` :five::four:mm
+
+## Example
+
+![sertificates](src/assets/sertificates_item.jpg)

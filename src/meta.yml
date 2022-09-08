@@ -1,0 +1,32 @@
+
+cloud:
+  mailru:
+    - date: 2022-09-08
+    - time: 19:05
+    - author: "Vladimir Pavlychev"
+    - path: "02service/VESTNIK/Sertificate/2022"
+    files:
+      PSD: "15х10см_3бейджика_друг_кс_вертикаль.psd"
+      jpg:
+        - "15х10см_3бейджа_чист_друг_кс_вертикаль.jpg"
+        - "15х10см_3бейджика_друг_кс_вертикаль.jpg"
+
+      to_print:
+        sertificates:
+          - size: "15cm x 21 cm"
+          - items: 6
+          chehov: 
+            - size: 5
+            names: 
+              - "Алина"
+              - "Ильена"
+              - "Анастасия"
+              - "Виктория"
+              - "Елена Владимировна"
+          protvino: 
+            - size: 1
+            name: "Назар"
+        badges:
+          - item: 1
+          - format: "10cm x 15cm"
+
